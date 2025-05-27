@@ -76,7 +76,9 @@ Time-series Lab 2025
 ---
 
  - Το σύνολο δεδομένων βρίσκεται στη διαδρομή ./data/training_set.csv ή πάτώντας [data](data)
- - [src](src): Εμπεριέχει το .ipynb σημειώματαριο (Jupyter Notebook) 
+ - [src](src): Εμπεριέχει το .ipynb σημειώματαριο (Jupyter Notebook) η είναι προσβάσιμο και εδώ:
+ https://colab.research.google.com/drive/1-oq3Vbyqx1KxUYKM0fsWC6GOhKcB6e0l?usp=sharing
+
 
 ## 🧰 Προτεινόμενες Python Βιβλιοθήκες
 
